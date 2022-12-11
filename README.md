@@ -1,7 +1,5 @@
 # Dbuz
 
-Project For InOut 7.0 Hackathon by Team **BroCode**.
-
 ## Problem Statements
 
 - No **efficient** and **robust** real time crowd monitoring.
@@ -63,8 +61,3 @@ A mobile phone with Android as OS.
 
 ![colash](https://github.com/itexpert2572000/Dbuz/blob/master/Images/Frame%2013.png)
 
-## TEAM
-
-![Adarsh](https://github.com/itexpert2572000/Dbuz/blob/master/Images/adarsh.png) | ![Akhil](https://github.com/itexpert2572000/Dbuz/blob/master/Images/tj.png) | ![Alexy](https://github.com/itexpert2572000/Dbuz/blob/master/Images/alexy.png) | ![Anas](https://github.com/itexpert2572000/Dbuz/blob/master/Images/anas.png) | ![Philona](https://github.com/itexpert2572000/Dbuz/blob/master/Images/philona.png)
------------- | ------------- | ------------- | ------------- | ------------- 
-[@Adarsh88](https://github.com/Adarsh88) | [@itexpert2572000](https://github.com/itexpert2572000) | [@AlexyPulivelil](https://github.com/AlexyPulivelil) | [@ANASDAVOODTK](https://github.com/ANASDAVOODTK) | [@philona123](https://github.com/philona123)
